@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jaga-cal/static/css/main.f855e6bc.css",
+    "main.js": "/jaga-cal/static/js/main.2f72bcf5.js",
+    "static/js/453.95e586ca.chunk.js": "/jaga-cal/static/js/453.95e586ca.chunk.js",
+    "index.html": "/jaga-cal/index.html",
+    "main.f855e6bc.css.map": "/jaga-cal/static/css/main.f855e6bc.css.map",
+    "main.2f72bcf5.js.map": "/jaga-cal/static/js/main.2f72bcf5.js.map",
+    "453.95e586ca.chunk.js.map": "/jaga-cal/static/js/453.95e586ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.2f72bcf5.js"
+  ]
+}
